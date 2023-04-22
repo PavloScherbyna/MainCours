@@ -1,0 +1,31 @@
+/* Пропис стилів для бдоку div */
+#first_id{
+    color: blue;
+    font-size: 22px;
+    background-color: yellow;
+    border: 2px solid orange;
+}
+/* Пропис стилів для елементу h1*/
+.for__h1{
+    color: green;
+    font-size: 32px;
+}
+/* Пропис стилів для посилань нумерованого списку*/
+.list a{
+ color: purple;
+ font-size: 26px;
+}
+/* Пропис стилів для картинки  */
+.img__off__dog{
+    width: 400px;
+    height: 200px;   
+}
+/* Пропис стилів для строчного елементу span*/
+.line__text{
+    color:lawngreen;
+    border: 1px dotted pink;
+}
+/* Пропис стилів для інших посилань тег (a)*/
+a{
+    color:red;
+}
