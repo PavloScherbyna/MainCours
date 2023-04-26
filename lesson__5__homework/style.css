@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+    .container{
+    max-width: 1280px;
+    padding: 0,10px,0,10px;
+    margin: auto;
+    position: relative;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500; 
+ }
+.text{
+    padding: 5px;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:yellowgreen
+ }
+ .button a{
+    display: block;
+    display: flex;
+    background-color: aquamarine;
+    width: 200px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    border-radius:4px;
+    height: 30px;
+ }
+ .button:hover a{
+	transform: scale(1.05);
+	filter: brightness(90%);
+    color: burlywood;
+    background-color: #8E44AD;
+ }
